@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 To run the main file simply run the below code after activating the `.venv`.
 ```bash
-python main.py
+python mutable_default_arg.py
 ```
 
 This will produce the following output:
