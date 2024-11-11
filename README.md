@@ -73,7 +73,7 @@ python mutable_default_arg.py
 This will produce the following output:
 ```scss
 Mutable Default Argument
-['banana']
+['banana']  
 ['banana', 'apple']
 ----------------------------------------
 Fixed Mutable Default Argument
