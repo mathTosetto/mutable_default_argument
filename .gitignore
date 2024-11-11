@@ -12,8 +12,7 @@ __pycache__/
 *.so
 
 # Venv
-.venvNoUv/
-.venvUv/
+.venv
 
 # Distribution / packaging
 bin/
@@ -35,6 +34,7 @@ pip-log.txt
 pip-delete-this-directory.txt
 
 # Unit test / coverage reports
+.pytest_cache/
 .tox/
 .coverage
 .cache
